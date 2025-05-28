@@ -1,0 +1,16 @@
+huggingface-hub==0.23.4
+jmetalpy==1.5.5
+langchain==0.2.11
+language-tool-python==2.7.1
+matplotlib==3.9.2
+nltk==3.9.1
+numpy==1.26.4
+openai==1.68.0
+opencv-python==4.10.0.84
+pandas==2.2.3
+py-readability-metrics==1.4.5
+seaborn==0.13.2
+sentencepiece==0.2.0
+tokenizers==0.19.1
+torch==2.5.1
+transformers==4.44.2
