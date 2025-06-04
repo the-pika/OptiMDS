@@ -29,8 +29,8 @@ Two optimization strategies are implemented:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/readability-optimization-medical-llm.git
-   cd readability-optimization-medical-llm
+   git clone https://github.com/the-pika/OptiMDS.git
+   cd OptiMDS
 
 2. Install dependencies:
    ```bash
