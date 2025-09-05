@@ -4,7 +4,7 @@ A LLM and multi-objective genetic algorithm framework to optimize the readabilit
 
 > ⚠️ **Notice**  
 > This project is currently under review for publication. Please do not copy, reproduce, or redistribute any part of the code or dataset without explicit permission.
-> 
+> This repo currently contains only one source code. I will be updating the entire code once the paper is accepted in the journal.
 
 # 🧠 Readability Optimization for Medical Summaries using LLaMA 3.1 and NSGA-II
 
