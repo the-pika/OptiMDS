@@ -2,9 +2,8 @@
 A LLM and multi-objective genetic algorithm framework to optimize the readability of medical discharge papers.
 
 
-> ⚠️ **Notice**  
-> This project is currently under review for publication. Please do not copy, reproduce, or redistribute any part of the code or dataset without explicit permission.
-> This repo currently contains only one source code. I will be updating the entire code once the paper is accepted in the journal.
+> ⚠️ **Cite This Work:**  
+> Verma, Deepika, Daison Darlan, and Rammohan Mallipeddi. "Multi-Objective Optimization of Large Language Model Summaries for Clinical Text Narratives." IEEE Access (2026).
 
 # 🧠 Readability Optimization for Medical Summaries using LLaMA 3.1 and NSGA-II
 
