@@ -91,32 +91,6 @@ These metrics quantify the **linguistic complexity of text** based on sentence l
 
 ---
 
-## 📂 Repository Structure
-
-OptiMDS
-
-├── data/
-
-  └── medical_layman_dataset
-
-|
-
-├── src/
-
-  └── OptiMDS_wordnet.py    (wordnet-based substitution and NSGA-based optimization)
-
-  └── OptiMDS_word2vec.py   (word2vec-based substitution and NSGA-based optimization)
-
-  └── llm_summary.py     (summarization using llama 3.1 instruct model)
-
-|
-
-├── README.md
-
-└── requirements
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:
