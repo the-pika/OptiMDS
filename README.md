@@ -2,10 +2,22 @@
 Multi-Objective Optimization of Large Language Model Summaries for Clinical Text Narratives
 A framework that combines Large Language Models (LLMs) and multi-objective evolutionary optimization to improve the readability of domain-specific text summaries while preserving semantic fidelity.
 
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)
+![LLM](https://img.shields.io/badge/LLM-LLaMA%203.1-green)
+![Optimization](https://img.shields.io/badge/Optimization-NSGA--II-purple)
+![WordNet](https://img.shields.io/badge/NLP-WordNet-lightgrey)
+![Word2Vec](https://img.shields.io/badge/Embeddings-Word2Vec-orange)
+![Gensim](https://img.shields.io/badge/Library-Gensim-darkgreen)
+![NLTK](https://img.shields.io/badge/NLP-NLTK-lightblue)
+![NumPy](https://img.shields.io/badge/Numerical-NumPy-blue)
+![Pandas](https://img.shields.io/badge/Data-Pandas-black)
 
 > ⚠️ **Cite This Work:**  
-> Verma, Deepika, Daison Darlan, and Rammohan Mallipeddi. "Multi-Objective Optimization of Large Language Model Summaries for Clinical Text Narratives." IEEE Access (2026).
-
+> Verma, Deepika, Daison Darlan, and Rammohan Mallipeddi. "Multi-Objective Optimization of Large Language Model Summaries for Clinical Text Narratives." IEEE Access (2026). 
 
 ## 🧠 Readability Optimization for Medical Summaries using LLaMA 3.1 and NSGA-II
 
