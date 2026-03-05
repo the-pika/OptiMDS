@@ -17,7 +17,7 @@ A framework that combines Large Language Models (LLMs) and multi-objective evolu
 ![Pandas](https://img.shields.io/badge/Data-Pandas-black)
 
 > ⚠️ **Cite This Work:**  
-> Verma, Deepika, Daison Darlan, and Rammohan Mallipeddi. "Multi-Objective Optimization of Large Language Model Summaries for Clinical Text Narratives." IEEE Access (2026). 
+> Verma, Deepika, Daison Darlan, and Rammohan Mallipeddi. "Multi-Objective Optimization of Large Language Model Summaries for Clinical Text Narratives." IEEE Access (2026). (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11359644)
 
 ## 🧠 Readability Optimization for Medical Summaries using LLaMA 3.1 and NSGA-II
 
